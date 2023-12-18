@@ -11,7 +11,7 @@ MindfulIntentions
 
 
 =======================================
-Documentations : https://github.com/TruongVoHuuHuan/MindfulIntentions_Group05/tree/main/Documentations
+Documentations : https://github.com/TruongVoHuuHuan/MindfulIntentions_Group05
 =======================================
 Published website :  https://truongvohuuhuan.github.io/MindfulIntentions_Group05/
 =======================================
