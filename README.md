@@ -13,6 +13,6 @@ MindfulIntentions
 =======================================
 Documentations : https://github.com/TruongVoHuuHuan/
 =======================================
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website :  https://truongvohuuhuan.github.io/MindfulIntentions_Group05/
 =======================================
 Thank you for visit our website.
