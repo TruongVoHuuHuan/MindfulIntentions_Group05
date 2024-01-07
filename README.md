@@ -13,6 +13,6 @@ MindfulIntentions
 =======================================
 Documentations : https://github.com/TruongVoHuuHuan/MindfulIntentions_Group05
 =======================================
-Published website :   https://truongvohuuhuan.github.io/MindfulIntentions_Group05/
+Published website :  [ https://truongvohuuhuan.github.io/MindfulIntentions_Group05/](https://github.com/TruongVoHuuHuan/MindfulIntentions_Group05/blob/main/coding/Home.html)https://github.com/TruongVoHuuHuan/MindfulIntentions_Group05/blob/main/coding/Home.html
 =======================================
 Thank you for visit our website.
